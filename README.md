@@ -1,4 +1,4 @@
-# timeapp
+# Convertor time
 Coding language : MATLAB/Octave(Used Octave GUI)
 Hello this is my menu-based program for time conversion,it
 uses looping to continuosly display the menu until it is prompted to end.
